@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Btop++
+GenericName=Stats Porocces Memory Network
+Comment=stats for processor memory, disks, network and processes.
+Exec=btop
+Icon=/usr/share/btop/btop.png
+Terminal=true
+Categories=Application;Utility;
+X-KDE-StartupNotify=false
+StartupNotify=false
